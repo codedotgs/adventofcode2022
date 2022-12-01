@@ -1,0 +1,19 @@
+{
+  "name": "adventofcode2022",
+  "version": "1.0.0",
+  "description": "Advent of Code",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codedotgs/adventofcode2022.git"
+  },
+  "author": "CodeDotGS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codedotgs/adventofcode2022/issues"
+  },
+  "homepage": "https://github.com/codedotgs/adventofcode2022#readme"
+}
