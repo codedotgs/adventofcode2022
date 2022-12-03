@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const content = fs.readFileSync("./day1-input.txt", "utf8");
+const content = fs.readFileSync("./inputs/day1.txt", "utf8");
 
 const inventory = content.split("\n");
 
